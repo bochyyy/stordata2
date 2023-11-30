@@ -21,3 +21,5 @@ func retrieve() -> felt {
   // Retrieves the data.
   return self.data;
 }
+
+For example, the comment for the store function explains that it stores the given data.
